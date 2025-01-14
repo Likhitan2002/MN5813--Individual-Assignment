@@ -1,0 +1,11 @@
+name,year,movie_rated,run_length,genres,release_date,rating,num_raters,num_reviews,review_url,country,rating_category,rating_with_category,movie_summary
+Psycho,1960,R,1h 49min,Horror; Mystery; Thriller; ,8 September 1960,8.5,580962,1263,https://www.imdb.com/title/tt0054215/reviews/_ajax?ref_=undefined&paginationKey=,USA,High,8.5 (High),Psycho (1960) - Rating: 8.5
+Psycho,1960,R,1h 49min,Horror; Mystery; Thriller; ,8 September 1960,8.5,580951,1263,https://www.imdb.com/title/tt0054215/reviews/_ajax?ref_=undefined&paginationKey=,USA,High,8.5 (High),Psycho (1960) - Rating: 8.5
+Alien,1979,R,1h 57min,Horror; Sci-Fi; ,22 June 1979,8.4,762796,1423,https://www.imdb.com/title/tt0078748/reviews/_ajax?ref_=undefined&paginationKey=,USA,High,8.4 (High),Alien (1979) - Rating: 8.4
+The Shining,1980,R,2h 26min,Drama; Horror; ,13 June 1980,8.4,860290,1805,https://www.imdb.com/title/tt0081505/reviews/_ajax?ref_=undefined&paginationKey=,USA,High,8.4 (High),The Shining (1980) - Rating: 8.4
+Alien,1979,R,1h 57min,Horror; Sci-Fi; ,22 June 1979,8.4,762793,1423,https://www.imdb.com/title/tt0078748/reviews/_ajax?ref_=undefined&paginationKey=,USA,High,8.4 (High),Alien (1979) - Rating: 8.4
+The Thing,1982,R,1h 49min,Horror; Mystery; Sci-Fi; ,25 June 1982,8.1,356790,1095,https://www.imdb.com/title/tt0084787/reviews/_ajax?ref_=undefined&paginationKey=,USA,High,8.1 (High),The Thing (1982) - Rating: 8.1
+The Thing,1982,R,1h 49min,Horror; Mystery; Sci-Fi; ,25 June 1982,8.1,356786,1095,https://www.imdb.com/title/tt0084787/reviews/_ajax?ref_=undefined&paginationKey=,USA,High,8.1 (High),The Thing (1982) - Rating: 8.1
+Rosemary's Baby,1968,R,2h 17min,Drama; Horror; ,17 October 1968,8.0,185587,557,https://www.imdb.com/title/tt0063522/reviews/_ajax?ref_=undefined&paginationKey=,France,High,8.0 (High),Rosemary's Baby (1968) - Rating: 8.0
+The Exorcist,1973,R,2h 2min,Horror; ,26 December 1973,8.0,352076,1220,https://www.imdb.com/title/tt0070047/reviews/_ajax?ref_=undefined&paginationKey=,USA,High,8.0 (High),The Exorcist (1973) - Rating: 8.0
+Shaun of the Dead,2004,R,1h 39min,Comedy; Horror; ,24 September 2004,7.9,499244,971,https://www.imdb.com/title/tt0365748/reviews/_ajax?ref_=undefined&paginationKey=,USA,Medium,7.9 (Medium),Shaun of the Dead (2004) - Rating: 7.9
