@@ -10,6 +10,6 @@
 
 Steps to open the 2508069---MN5813.ipynb Jupyter Notebook 
 * Download all the 17 csv files in Raw Data (to download) Folder
-* Download the 2508069.ipynb notebook and copy the path and replace it in the file path section.
+* Download the 2508069---MN5813.ipynb notebook and copy the path and replace it in the file path section.
 * Run the file on jupyter notebook
 
